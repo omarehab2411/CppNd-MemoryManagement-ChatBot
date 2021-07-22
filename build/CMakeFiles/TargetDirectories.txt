@@ -1,0 +1,3 @@
+/home/workspace/CppND-Memory-Management-Chatbot-master/build/CMakeFiles/rebuild_cache.dir
+/home/workspace/CppND-Memory-Management-Chatbot-master/build/CMakeFiles/membot.dir
+/home/workspace/CppND-Memory-Management-Chatbot-master/build/CMakeFiles/edit_cache.dir
